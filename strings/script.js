@@ -14,3 +14,4 @@ console.log(tamAd[0])
 console.log(tamAd.length)
 console.log(tamAd.toUpperCase());
 console.log(tamAd.toLowerCase());
+console.log(tamAd.indexOf("z"))
