@@ -1,6 +1,6 @@
 /*
 
-javascript metodlarından splice belirli aralığı tutar
+javascript metodlarından slice belirli aralığı tutar
 substring kaçtan başlayıp kaç karaktter olmasını istiyorsak okadar yazdırılır
 
 replace değişiklik yapar
