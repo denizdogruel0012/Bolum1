@@ -1,0 +1,1 @@
+alert("merhaba Dünya")
